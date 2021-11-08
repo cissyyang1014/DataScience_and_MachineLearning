@@ -1,4 +1,4 @@
-## A short summary
+### A short summary
 
 # K Nearest Neighbors (KNN)
 
