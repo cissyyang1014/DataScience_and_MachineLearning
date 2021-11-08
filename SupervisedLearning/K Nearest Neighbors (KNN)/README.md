@@ -1,3 +1,5 @@
+## A short summary
+
 # K Nearest Neighbors (KNN)
 
 ### Idea: 
@@ -14,12 +16,12 @@ Data with similar features "should" be close in space.
 
 Two-Dimention formular:
 
-$d(p, q) = \sqrt {(p_1-q_1)^2+(p_2-q_2)^2}$
+<img src="http://chart.googleapis.com/chart?cht=tx&chl= d(p, q) = \sqrt {(p_1-q_1)^2+(p_2-q_2)^2}" style="border:none;">
+
 
 n-Dimention formular:
 
-$d(p, q) = \sqrt {(p_1-q_1)^2+(p_2-q_2)^2+...+(p_n-q_n)^2}=\sqrt {\sum \limits_{i=1}^{n}(p_i-q_i)^2}$
-
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=d(p, q) = \sqrt {(p_1-q_1)^2+(p_2-q_2)^2+...+(p_n-q_n)^2}=\sqrt {\sum \limits_{i=1}^{n}(p_i-q_i)^2}" style="border:none;">
 
 
 ### How to choose K?
@@ -27,4 +29,5 @@ K should be odd for classification.
 
 ### How should we measure error?
 
-$$E = \frac {1}{M} \sum \limits_{i=1}^{M} \left(y_i \ne \hat y_i \right)$$
+<img src="http://chart.googleapis.com/chart?cht=tx&chl=E = \frac {1}{M} \sum \limits_{i=1}^{M} \left(y_i \ne \hat {y_i} \right)" style="border:none;">
+
