@@ -1,3 +1,15 @@
+Content of **K Nearest Neighbors (KNN)**
+
+* Image: folder containing images used in README
+* Data: folder containing all data files
+   * dataset-184.csv: Hawks dataset 
+* Lec1: 
+* Lec2
+
+
+
+![image](https://github.com/cissyyang1014/INDE577_DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Image/KNN_1.JPG)
+
 ### A short summary
 
 # K Nearest Neighbors (KNN)
