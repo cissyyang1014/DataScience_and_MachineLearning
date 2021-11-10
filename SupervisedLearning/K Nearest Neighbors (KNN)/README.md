@@ -4,7 +4,9 @@ Content of **K Nearest Neighbors (KNN)**
 * Data: folder containing all data files used in this module
    * Hawks.csv: Hawks Dataset 
 * KNN.ipynb: Jupyter notebook file performing KNN using Iris Dataset to classify the iris species
-* KNN_2.ipynb: Jupyter notebook file performing KNN using Hawks Dataset to classify the hawks species
+* KNN_2.ipynb: Jupyter notebook file containing
+  - 1) Introduction of K Nearest Neighbors algorithm
+  - 2) Performing KNN using Hawks Dataset to classify the hawks species
 
 
 ![image](https://github.com/cissyyang1014/INDE577_DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Image/KNN_1.JPG)
