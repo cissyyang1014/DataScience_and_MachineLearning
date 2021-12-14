@@ -1,12 +1,15 @@
-Content of **K Nearest Neighbors (KNN)**
+# K Nearest Neighbors (KNN)
 
-* Image: folder containing images used in README
-* Data: folder containing all data files used in this module
-   * Hawks.csv: Hawks Dataset 
-* KNN.ipynb: Jupyter notebook file performing KNN using Iris Dataset to classify the iris species
-* KNN_2.ipynb: Jupyter notebook file containing
+Contents of **K Nearest Neighbors (KNN)**
+
+* [Image](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Image): folder containing images used in README
+* [Data](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Data): folder containing all data files used in this module
+   * [Hawks.csv](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Data/Hawks.csv): Hawks Dataset 
+* [KNN_iris.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/KNN_iris.ipynb): Jupyter notebook file performing KNN using Iris Dataset to classify the iris species
+* [KNN.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/KNN.ipynb): Jupyter notebook file containing
   - 1) Introduction of K Nearest Neighbors algorithm
-  - 2) Performing KNN using Hawks Dataset to classify the hawks species
+  - 2) Building KNN algorithm from scratch and performing KNN using Hawks Dataset to classify the hawks species
+  - 3) Compare the built algorithm with the *KNeighborsClassifier* from sklearn
 
 
 ![image](https://github.com/cissyyang1014/INDE577_DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Image/KNN_1.JPG)
@@ -24,6 +27,7 @@ Data with similar features "should" be close in space.
 * Step 3:
     - For Classification: of the k closest points predict the majority label
     - For Regression: predict the average label for the K closest points
+* Step 4: Evaluation of the performance and optimize K
 
 ### Calculate distance:
 
@@ -44,3 +48,17 @@ K should be odd for classification.
 
 <img src="http://chart.googleapis.com/chart?cht=tx&chl=E = \frac {1}{M} \sum \limits_{i=1}^{M} \left(y_i \ne \hat {y_i} \right)" style="border:none;">
 
+Please read [KNN.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/KNN.ipynb) to learn more details.
+
+---
+
+### Datasets
+
+There are two datasets used to implement K Nearest Neighbors (KNN) algorithm:
+* Iris Dataset:
+
+The Iris Dataset is loaded from *sklearn.datasets*. The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris virginica and Iris versicolor). Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
+  
+* Hawks Dataset:
+
+The Hawks dataset has 908 cases and 19 columns. The data were collected by the students and faculty from Cornell College at Lake MacBride near Iowa City, Iowa. There are three different species of hawks: Red-tailed, Sharp-shinned, and Cooper's hawks.
