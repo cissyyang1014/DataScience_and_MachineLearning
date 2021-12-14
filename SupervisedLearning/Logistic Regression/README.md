@@ -1,6 +1,6 @@
 # Logistic Regression
 
-This sub-repository mainly focuses on using Logistic Regreesion to solve classification problems.
+This sub-repository mainly focuses on using Logistic Regreesion algorithm to solve classification problems.
 
 Contents of **Logistic Regression**
 
