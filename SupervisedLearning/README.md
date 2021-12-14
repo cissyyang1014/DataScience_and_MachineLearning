@@ -1,6 +1,6 @@
 # Supervised Learning
 
-There are nine supervised learning algorithms perfomed in this sub-repository. Most of the algorithms is coded from scratch. Each algorithm is performed in two different datasets, one of which is from the class example. 
+There are nine supervised learning algorithms perfomed in this sub-repository. Most of the algorithms are coded from scratch. Each algorithm is performed in two different datasets, one of which is from the class example. 
 
 Contents of **Supervised Learning**:
 
