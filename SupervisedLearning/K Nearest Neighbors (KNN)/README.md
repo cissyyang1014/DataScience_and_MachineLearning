@@ -1,5 +1,7 @@
 # K Nearest Neighbors (KNN)
 
+This sub-repository mainly focuses on using K Nearest Neighbors to solve classification problems.
+
 Contents of **K Nearest Neighbors (KNN)**
 
 * [Image](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Image): folder containing images used in README
