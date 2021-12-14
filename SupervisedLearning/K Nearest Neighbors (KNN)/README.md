@@ -16,7 +16,7 @@ Contents of **K Nearest Neighbors (KNN)**
 
 ![image](https://github.com/cissyyang1014/INDE577_DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Image/KNN_1.JPG)
 
-### A short summary
+### A Short Summary
 
 # K Nearest Neighbors (KNN)
 
