@@ -22,7 +22,10 @@ Supervised learning is widely used in practice. Supervising means helping the mo
 ![image](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Image/Machine-Learning-Explained1.png)
 
 There are two types of supervised learning methods, regression and classification.
-* Regression:
-* Classification:
+* Regression: the output variable is a continuous value, such as "price" or "height". [Linear Regression](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Linear%20Regression) is the most used regression algorithm.
+* Classification: the output variable is a category, such as "green" or "blue", and "apple" or "banana". Commom algorithms are [Decision Tree](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Decision%20Tree), and [K Nearest Neighbors (KNN)](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)).
 
-For the nine algorithms in this sub-repository, 
+Some algorithms can be used in both regression and classification problems, such as [Logistic Regression](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Logistic%20Regression).
+
+![image](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Image/regreclas_2.png)
+
