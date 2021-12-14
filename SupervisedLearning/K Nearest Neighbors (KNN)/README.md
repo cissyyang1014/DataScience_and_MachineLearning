@@ -7,7 +7,7 @@ Contents of **K Nearest Neighbors (KNN)**
 * [Image](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Image): folder containing images used in README
 * [Data](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Data): folder containing all data files used in this module
    * [Hawks.csv](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/Data/Hawks.csv): Hawks Dataset 
-* [KNN_iris.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/KNN_iris.ipynb): Jupyter notebook file performing KNN using Iris Dataset to classify the iris species
+* [KNN_iris.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/KNN_iris.ipynb): Jupyter notebook file building KNN algorithm from scratch and performing the algorithm using Iris Dataset to classify the iris species
 * [KNN.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/K%20Nearest%20Neighbors%20(KNN)/KNN.ipynb): Jupyter notebook file containing
   - 1) Introduction of K Nearest Neighbors algorithm
   - 2) Building KNN algorithm from scratch and performing KNN using Hawks Dataset to classify the hawks species
