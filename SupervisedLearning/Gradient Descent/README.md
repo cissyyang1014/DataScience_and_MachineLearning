@@ -1,6 +1,6 @@
 # Gradient Descent
 
-This sub-repository mainly focuses on using Gradient Descent to solve linear regression problems.
+This sub-repository mainly focuses on using Gradient Descent to solve regression problems.
 
 Contents in **Gradient Descent**
 * [Image](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Gradient%20Descent/Image): folder containing images used in README
