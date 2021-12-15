@@ -12,6 +12,7 @@ Contents of **Supervised Learning**:
 * [Neuron Network](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Neural%20Network)
 * [Decision Tree](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Decision%20Tree)
 * [Ensemble Learning and Random Forest](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Ensemble%20Learning%20and%20Random%20Forest)
+* [Support Vector Machines (SVMs)](https://github.com/cissyyang1014/DataScience_and_MachineLearning/tree/main/SupervisedLearning/Support%20Vector%20Machines%20(SVMs))
 
 ---
 
