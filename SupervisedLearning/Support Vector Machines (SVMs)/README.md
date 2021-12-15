@@ -11,7 +11,18 @@ Contents of **Support Vector Machines (SVMs)**
 
 # Support Vector Machines (SVMs)
 
+Support Vector Machine (SVM) algorithm is a powerful supervised machine learning algorithm, which can be used in both regression and classification problems.
 
+There are two types of SVM, linear SVM (simple SVM) and non-linear SVM (kernel SVM). Linear SVM is used for linearly separable data, while the non-linear SVM is used for non-linearly separated data.
+
+The goal of the SVM algorithm is to create the best decision boundary to separate the classes. To achieve the goal, it finds the maximum distance from the nearest points of two classes, and this optimal decision boundary is called support vectors. The region between the decision boundary defined by support vectors is margin.
+
+The working flow of a simple SVM algorithm can be simply summarized in two steps:
+
+* Find boudaries (or hyperplane) that correctly separate the classes for the trainig data
+* Picks the one that has the maximum distance from the closest data points
+
+Please read  [SVM_single_cell.ipynb](https://github.com/cissyyang1014/DataScience_and_MachineLearning/blob/main/SupervisedLearning/Support%20Vector%20Machines%20(SVMs)/SVM_single_cell.ipynb) to learn more details.
 
 ---
 
